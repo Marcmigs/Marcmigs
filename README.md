@@ -1,4 +1,4 @@
-## Hi there 👋
+## hey, it's marco. my 'about' information is still currently under construction!
 
 <!--
 **Marcmigs/Marcmigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
